@@ -16,4 +16,4 @@ Submit through repl.it.
 
 ### Challenge
 
-Experiment with different properties of [Button](https://developer.android.com/reference/android/widget/Button) and [Linear Layout](https://developer.android.com/guide/topics/ui/layout/linear). To improve the look of your app.
+Write this code in android and output it by setting the text value in a text view.
