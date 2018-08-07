@@ -1,7 +1,7 @@
 # Java_Introduction
 
 ### Location
-https://repl.it/teacher/assignments/1122445
+Create a Repl.it account and join the classroom found [here](https://repl.it/classroom/invite/V2RyVcB)
 
 ### Instructions
 1. Write code that follows the instructions in each of the code blocks (between the {} braces)
